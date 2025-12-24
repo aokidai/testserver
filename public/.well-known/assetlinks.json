@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vntt.eofficevntts",
+      "sha256_cert_fingerprints": [
+        "E3:F9:93:65:9D:ED:36:D6:92:76:52:B6:4F:A6:45:AF:A5:E5:1D:07:B4:B1:EC:3D:94:F9:2E:68:1F:15:E5:39"
+      ]
+    }
+  }
+]
